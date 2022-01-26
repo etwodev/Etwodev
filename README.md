@@ -14,5 +14,5 @@ I first got into programming because it acted as a medium where I could make thi
   <img align="center" src="https://github-readme-stats-4sohh2b5a-etwodev.vercel.app/api/top-langs/?username=Etwodev&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-4sohh2b5a-etwodev.vercel.app/api?username=Etwodev&show_icons=true&theme=dracula" />
+  <img align="right" src="https://github-readme-stats-4sohh2b5a-etwodev.vercel.app/api?username=Etwodev&show_icons=true&count_private=true&theme=dracula" />
 </a>
