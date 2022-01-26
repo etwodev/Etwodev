@@ -10,4 +10,4 @@ Hello there! I'm a self-taught, 17 year old programmer that has worked on a gene
 I first got into programming because it acted as a medium where I could make things that could not be easily found as an app or done. Renaming files, automating deletion processes- there were all sorts of things. I then started to see the value of programming- and wanted to get better by learning another language, which would then go on to be C#. I then started participating in competitions, and loved the time-based aspect of problem solving. These include competitions for BIO and Bebras.
 
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Etwodev&theme=tokyonight)
+![Top Langs](https://github-readme-stats-4sohh2b5a-etwodev.vercel.app/api/top-langs/?username=Etwodev&theme=dracula)
