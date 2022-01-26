@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/Etwodev/Etwodev/blob/main/icon.png" alt="Icon" width="100" height="100"></img>
-<br><sub>Hey, I'm <strike>legally</strike> Ethan Woods (She/Her)</sub></br>
+<br><sub>Hey, I'm <strike>legally</strike> Ethan Woods, but you can call me Zoe (She/Her)</sub></br>
 ## Introduction
 Hello there! I'm a self-taught, 17 year old programmer that has worked on a generally wide range of projects. The majority of my projects have been personal, but I hope to expand my sights as soon as I can. My greatest 'creations' thus far is [Ayako](https://www.ayako.one), a Discord Bot, and the winning project of the KES2021 Gamejam 'Everlight' which can be found [here](https://etwodev.github.io/projects/2021-27-06/); for demonstrating creative understanding of the requirements and good game design. It also has some projectile predictions.
 
