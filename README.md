@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=Etwodev.Etwodev) [![Github](https://img.shields.io/github/followers/Etwodev?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=Etwodev.Etwodev) [![Github](https://img.shields.io/github/followers/Etwodev?label=Follow&style=social)](https://github.com/Etwodev)
 
 
 <img src="https://github.com/Etwodev/Etwodev/blob/main/icon.png" alt="Icon" width="100" height="100"></img>
