@@ -11,12 +11,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       src="https://github-readme-stats-liard-eta-14.vercel.app/api/top-langs/?username=Etwodev&langs_count=10&theme=dracula&role=OWNER,COLLABORATOR"
-      height="130"
+      height="138"
     />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-liard-eta-14.vercel.app/api?username=Etwodev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="130"/>
+    <img src="https://github-readme-stats-liard-eta-14.vercel.app/api?username=Etwodev&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="138"/>
   </a>
   
   <br/>
