@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Etwodev/Etwodev/blob/main/icon.png" alt="Icon" width="500" height="500"/>
+  <img src="https://github.com/Etwodev/Etwodev/blob/main/icon.png" alt="Icon" width="100" height="100"/>
   <br><b><sub>Hey, I'm Ethan Woods, just a random full-stack developer.</sub></b></br>
 </div>
 
