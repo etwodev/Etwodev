@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="https://github.com/Etwodev/Etwodev/blob/main/icon.png" alt="Icon" width="100" height="100"/>
-  <br><b><sub>Hey, I'm Zoe Woods, just a random full-stack developer.</sub></b></br>
 </div>
 
 
